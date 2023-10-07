@@ -9,7 +9,7 @@ const loadingTexts = [
   "Unleashing the power of curiosity...",
   "Diving deep into the ocean of questions...",
   "Harnessing the collective knowledge of the cosmos...",
-  "Igniting the flame of wonder and exploration...",
+  "Igniting the flame of wonder and exploration....",
 ];
 
 const LoadingQuestions = ({ finished }: Props) => {
